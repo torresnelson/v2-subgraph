@@ -4,7 +4,7 @@ repository: https://github.com/Uniswap/uniswap-v2-subgraph
 schema:
   file: ./schema.graphql
 graft:
-  base: Qmc7K8dKoadu1VcHfAV45pN4sPnwZcU2okV6cuU4B7qQp1
+  base: QmYgALXi1g7LVGphDcdwkajrgPFPKwxFJ3mWFYKpaT4bd2
   block: 17308000
 dataSources:
   - kind: ethereum/contract
